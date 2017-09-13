@@ -1,0 +1,6 @@
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\bin\Debug\configCheck.exe.config
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\obj\Debug\configCheck.csprojResolveAssemblyReference.cache
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\bin\Debug\configCheck.exe
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\bin\Debug\configCheck.pdb
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\obj\Debug\configCheck.exe
+c:\users\jkinnaird\documents\visual studio 2015\Projects\configCheck\configCheck\obj\Debug\configCheck.pdb
